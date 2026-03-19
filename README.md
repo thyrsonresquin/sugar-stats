@@ -21,7 +21,7 @@ O arquivo utilizado é o exame_diabes.csv, que contém 100 registros com as segu
 
 🛠️ Tecnologias Recomendadas
 Para executar este projeto, sugere-se o uso das seguintes bibliotecas Python:
-**Pandas**: Para manipulação e análise de dados.
-**Matplotlib/Seaborn**: Para visualização de dados.
-**Scikit-learn**: Para criação de modelos de Machine Learning.
-**Jupyter Notebook**: Para documentação interativa do código
+- **Pandas**: Para manipulação e análise de dados.
+- **Matplotlib/Seaborn**: Para visualização de dados.
+- **Scikit-learn**: Para criação de modelos de Machine Learning.
+- **Jupyter Notebook**: Para documentação interativa do código
